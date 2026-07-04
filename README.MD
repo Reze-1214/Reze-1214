@@ -8,7 +8,6 @@ Saya seorang **Frontend Web Developer** dan **Graphic Designer** yang saat ini d
 * 🏫 Sedang belajar dan mengasah *skill* di **SMK TI Muhammadiyah Cikampek**.
 * 💼 Aktif menerima proyek *freelance* untuk pembuatan website dan desain grafis (khususnya poster).
 * 🌱 Saat ini sedang seru-serunya membuat aplikasi menggunakan ekosistem web modern.
-* 💻 Beberapa proyek unggulan yang saya kerjakan: sistem informasi **SarprasLapor** dan aplikasi manajemen **VitalSync**.
 * 🎨 Sangat peduli dengan UI/UX, sering ngulik desain pakai **Figma** dan **Photoshop**.
 
 ---
