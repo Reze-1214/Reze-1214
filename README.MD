@@ -1,4 +1,4 @@
-# Halo! Saya Reze 👋
+# Hola! 👋
 
 Saya seorang **Frontend Web Developer** dan **Graphic Designer** yang saat ini duduk di bangku kelas 12 jurusan Rekayasa Perangkat Lunak (RPL) di **SMK TI Muhammadiyah Cikampek**. Saya suka membuat tampilan website yang modern, responsif, dan juga mendesain visual yang menarik.
 
