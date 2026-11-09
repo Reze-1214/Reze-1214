@@ -1,24 +1,25 @@
 <div align="center">
 
-# `~/kinfael` — Crafting Webs & Ricing Desktops ⚡
+# 🌐 Web Developer & Linux Desktop Crafter 🐧
 
-*Merancang antarmuka di dua dunia: di dalam browser dan di atas Wayland compositor.*
+*Membangun website yang cepat dan responsif di browser, sekaligus meracik antarmuka desktop di atas Wayland.*
 
-[![OS](https://img.shields.io/badge/OS-CachyOS_Linux-00AA88?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![WM](https://img.shields.io/badge/WM-Hyprland-00B4D8?style=for-the-badge&logo=wayland&logoColor=white)](#)
-[![Shell](https://img.shields.io/badge/Shell-Fish-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
+[![Role](https://img.shields.io/badge/Focus-Fullstack_&_Frontend_Web-38B2AC?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Environment-CachyOS_•_Hyprland-00B4D8?style=for-the-badge&logo=linux&logoColor=white)](#)
 
 </div>
 
 ---
 
-###  terminal — `fastfetch.sh`
+### ⚡ Sekilas Tentangku
+
+Aku seorang **Web Developer** yang sangat peduli dengan performa, struktur kode yang bersih, dan UI/UX yang nyaman dipakai. Di luar proyek pengembangan web dan *freelance*, aku menghabiskan banyak waktu di ekosistem Linux—mengembangkan *custom desktop shell*, menulis *widget* interaktif, dan merapikan repositori *dotfiles* **Hyprland**.
 
 ```yaml
-user@cachyos
-------------
-Role        : Web Developer & Linux Ricer
-Main Quest  : Building custom Hyprland shells & dotfiles
-Side Quest  : Crafting fast, clean, zero-bloat websites
-Location    : Mostly inside ~/.config/hypr & ~/.config/quickshell
-Philosophy  : "If it's bloated, strip it down. If it's ugly, rice it."
+kinfael@workspace
+-----------------
+Primary Role   : Web Developer (Landing Pages, Web Apps & Micro-tools)
+Daily Passion  : Linux Ricing, Hyprland Dotfiles & Custom QML Shells
+Web Stack      : HTML5, Tailwind CSS, JavaScript, Node.js, PHP, MySQL
+Linux Setup    : CachyOS (Wayland) + Hyprland + Quickshell + Fish
+Work Style     : Clean code, fast load times, zero unnecessary bloat
