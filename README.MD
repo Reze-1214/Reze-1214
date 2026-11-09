@@ -70,34 +70,6 @@ Aku seorang **Web Developer** yang terobsesi dengan performa dan tampilan visual
 
 <br>
 
-### 📌 Sorotan Proyek & Konfigurasi
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h4>🖥️ Hyprland & Quickshell Dotfiles</h4>
-      <p>Koleksi konfigurasi Wayland/Hyprland pribadi lengkap dengan racikan <i>custom shell</i> berbasis QML & JavaScript.</p>
-      <a href="#"><img src="https://img.shields.io/badge/Lihat_Repositori_Dotfiles-1E1E2E?style=flat-square&logo=github&logoColor=00B4D8" /></a>
-    </td>
-    <td width="50%">
-      <h4>🌐 Web Apps & Landing Pages</h4>
-      <p>Kumpulan proyek pengembangan web, mulai dari aplikasi interaktif hingga <i>landing page</i> komunitas & klien.</p>
-      <a href="#"><img src="https://img.shields.io/badge/Eksplor_Proyek_Web-1E1E2E?style=flat-square&logo=googlechrome&logoColor=38B2AC" /></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 📊 Aktivitas & Statistik Koding
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Makima-1214&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=00B4D8" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makima-1214&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer&text=Let's%20Build%20Something%20Cool%20Together!&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
